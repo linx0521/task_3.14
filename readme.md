@@ -7,10 +7,18 @@ LICENSE: [MIT](./license.md)
 ----------
 
 ### Содержание:
-1. 
+1. [git config](./init_settings.md)
 2. [git add](./add.md)
 3. [git status](./status.md)
 4. [git commit](./commit.md)
+5. [git reset](./reset.md)
+5. [git commit](./commit.md)
+5. [git commit](./commit.md)
+5. [git commit](./commit.md)
+5. [git commit](./commit.md)
+5. [git commit](./commit.md)
+5. [git commit](./commit.md)
+5. [git commit](./commit.md)
 
 
 
